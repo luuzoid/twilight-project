@@ -115,9 +115,9 @@ Metode utama:
 | 9 | LIPM | Model berjalan | Sederhana |
 | 10 | Simulation | Uji virtual | Aman |
 
-
+<br><br><br>
 <p align="center">
-  <h1>🚀 Review Video & Integrasi Teknis</h1>
+  <h1>🚀 Review Video</h1>
   <img src="image-1.png" width="600"/>
   <h3><u>The FASTEST Introduction to Reinforcement Learning on the Internet</u></h3>
 </p>
