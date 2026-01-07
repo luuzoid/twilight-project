@@ -1,0 +1,7 @@
+ping 10.48.129.5
+EROS_5G = EROS1NASIONAL
+ssh eros@10.48.129.5 --> bejo (pw: 1)
+catkin clean
+catkin build
+source devel/setup.bash
+roslaunch launcher tuning.launch
